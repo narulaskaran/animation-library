@@ -1,2 +1,2 @@
-# animation-library
-Fun library of JS animations
+# Javascript animation library
+Fun library of AnimeJs animations 
